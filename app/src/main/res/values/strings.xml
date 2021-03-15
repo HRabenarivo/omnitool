@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Omnitool</string>
+    <string name="activity_1">Activity_1</string>
+    <string name="activity_2">Activity_2</string>
+    <string name="activity_3">Activity_3</string>
+    <string name="creator_info">Creator information</string>
+    <string name="welcome_message">Welcome to my Omnitool !</string>
+</resources>
